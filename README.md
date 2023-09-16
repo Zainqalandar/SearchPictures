@@ -1,4 +1,2 @@
-# ApnaCollege
-This Is ApnaCollege Tutorial for GitHub.
-<br>
-Auther_ZainQalandar (Shekhupura)
+# Search Image App
+This is Search Image Project.
