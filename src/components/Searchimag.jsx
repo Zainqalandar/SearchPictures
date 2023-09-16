@@ -7,7 +7,7 @@ function Searchimag({setTerm}) {
         console.log(search)
     }
     return (
-        <form className="flex items-center w-1/2 mx-auto my-4" onSubmit={(e) => e.preventDefault()}>
+        <form className="flex items-center sm:w-full md:w-[80%] lg:w-1/2 mx-auto my-4" onSubmit={(e) => e.preventDefault()}>
             <label htmlFor="voice-search" className="sr-only">Search</label>
             <div className="relative w-full">
                 <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
